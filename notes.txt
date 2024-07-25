@@ -1,0 +1,12 @@
+PHASE - 1
+
+A
+
+1. Basic setup
+2. Initialise data using init folder where we have separate files for data(sample data) and index(which inserts data in db).
+3. {...req.body.listing} use to deconstruct and get individual values from object.
+
+B
+
+1. In this part we will do some basic styling and use ejs-mate and boilerplate.
+2. We make use of includes and put navbar code in separate folder and file and then includes it in our boilerplate template.
